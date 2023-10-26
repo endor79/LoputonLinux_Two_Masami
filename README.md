@@ -10,20 +10,20 @@
 ![4](https://github.com/endor79/LoputonLinux_Two_Masami/assets/105305285/58b8f08d-c279-4320-8cbd-98c45205d177)
 
 # About
-rtw89 wireless driver added
+· rtw89 wireless driver added
 
-Bluetooth is configured
+· Bluetooth is configured
 
-AMD GPU Drivers added
+· AMD GPU Drivers added
 
-Linux Kernel 6.1.0-13
+· Linux Kernel 6.1.0-13
 
-Xfce version 4.18
+· Xfce version 4.18
 
-Pentesting tools have been reduced
+· Pentesting tools have been reduced
 
-Made suitable for the end user
+· Made suitable for the end user
 
-Asus Vivobook 16x series Supported
+· Asus Vivobook 16x series Supported
 
-Dell Latitude series Supported
+· Dell Latitude series Supported
