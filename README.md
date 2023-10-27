@@ -27,3 +27,6 @@
 ![5](https://github.com/endor79/LoputonLinux_Two_Masami/assets/105305285/f38a662a-4530-4f4b-8703-c29bdc958e97)
 
 ![4](https://github.com/endor79/LoputonLinux_Two_Masami/assets/105305285/58b8f08d-c279-4320-8cbd-98c45205d177)
+
+# Download
+[![Download LoputonLinux_Two_Masami](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/loputonlinux-two-masami/files/latest/download)
