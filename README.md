@@ -17,6 +17,8 @@
 
 · Dell Latitude series Supported
 
+· Casper Excalibur G770 Supported
+
 # Screenshots
 ![1](https://github.com/endor79/LoputonLinux_Two_Masami/assets/105305285/25927cc8-399b-4871-95de-8f2d3b72625e)
 
